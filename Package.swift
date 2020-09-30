@@ -22,6 +22,7 @@ let package = Package(
         .binaryTarget(
                     name: "SPMTestXCFramework",
                     url: "https://github.com/sivakumarscorpian/SPMTestXCFramework/blob/master/SPMTestXCFramework.xcframework.zip",
+                    checksum: "851e297afdbc6cd650045d3ca498d08fba97e98b6be58949d81b453978162143"
                 ),
 
     ]
